@@ -17,7 +17,7 @@ void main() {
     for (i = 0; i < 3; i++) {
         fr[i] = -1;
     }
-    printf("TABLE:\n");
+    printf("Page Frames:\n");
     for (j = 0; j < 12; j++) {
         flag1 = 0, flag2 = 0;
         for (i = 0; i < 3; i++) {
