@@ -1,4 +1,3 @@
-#include <conio.h>
 #include <stdio.h>
 #include <stdlib.h>
 void main() {
@@ -34,7 +33,6 @@ x:
         goto x;
     else
         exit(0);
-    getch();
 }
 
 /*	OUTPUT:
