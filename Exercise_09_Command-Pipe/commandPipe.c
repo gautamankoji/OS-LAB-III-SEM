@@ -30,9 +30,9 @@ int main() {
 
 ------------------[OUTPUT]-----------------
 
-[student@gcet ~]$ vi pipes2.c
-[student@gcet ~]$ cc pipes2.c
-[student@gcet ~]$ ./a.out
+[student ~]$ vi pipes2.c
+[student ~]$ cc pipes2.c
+[student ~]$ ./a.out
 Parent reading from pipe
 Total 24
 -rwxrwxr-x l student student 5563Aug 3 10:39 a.out
