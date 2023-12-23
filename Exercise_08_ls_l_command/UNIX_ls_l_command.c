@@ -23,7 +23,7 @@ int main() {
 
 ------------------[OUTPUT]-----------------
 
-    guest-glcbIs@ubuntu:~$gcc –o lsc.out lsc.c
+guest-glcbIs@ubuntu:~$gcc –o lsc.out lsc.c
 guest-glcbIs@ubuntu:~$./lsc.out
 total 100
 -rwxrwx—x 1 guest-glcbls guest-glcbls 140 2012-07-06 14:55 f1
