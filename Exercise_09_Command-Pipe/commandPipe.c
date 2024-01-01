@@ -35,13 +35,12 @@ int main() {
 [student ~]$ ./a.out
 Parent reading from pipe
 Total 24
--rwxrwxr-x l student student 5563Aug 3 10:39 a.out
+-rwxrwxr-x l STUDENT@501 5563Aug 3 10:39 a.out
 -rw-rw-r—l
-Student student 340 jul 27 10:45 pipe2.c
--rw-rw-r—l student student
+STUDENT@501 340 jul 27 10:45 pipe2.c
+-rw-rw-r—l STUDENT@501
 Pipes2.c
--rw-rw-r—l student student 401 34127 10:27 pipe2.c
-student
+-rw-rw-r—l STUDENT@501 401 34127 10:27 pipe2.c
 
 --------------[END-OF-OUTPUT]--------------
 
