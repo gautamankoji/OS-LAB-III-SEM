@@ -23,11 +23,11 @@ int main() {
 
 ------------------[OUTPUT]-----------------
 
-guest-glcbIs@ubuntu:~$gcc –o lsc.out lsc.c
-guest-glcbIs@ubuntu:~$./lsc.out
+STUDENT@501:~$ gcc –o lsc.out lsc.c
+STUDENT@501:~$ ./lsc.out
 total 100
--rwxrwx—x 1 guest-glcbls guest-glcbls 140 2012-07-06 14:55 f1
-drwxrwxr-x 4 guest-glcbls guest-glcbls 140 2012-07-06 14:40 dir1
+-rwxrwx—x 1 STUDENT@501 STUDENT@501 140 2012-07-06 14:55 f1
+drwxrwxr-x 4 STUDENT@501 STUDENT@501 140 2012-07-06 14:40 dir1
 child complete
 
 --------------[END-OF-OUTPUT]--------------
