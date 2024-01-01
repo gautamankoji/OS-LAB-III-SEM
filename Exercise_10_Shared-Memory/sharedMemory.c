@@ -78,8 +78,8 @@ int main(int argc, char *argv[]) {
 
 ------------------[OUTPUT]-----------------
 
-Student@ubuntu:~$gcc shm.c
-Student@ubuntu:~$ ./a.out
+STUDENT@501:~$ gcc shm.c
+STUDENT@501:~$ ./a.out
 Shared memory ID=65537 child pointer 3086680064
 Child value =1
 Shared memory ID=65537 child pointer 3086680064
