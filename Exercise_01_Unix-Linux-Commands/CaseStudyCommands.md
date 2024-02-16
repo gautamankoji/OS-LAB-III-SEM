@@ -195,6 +195,3 @@ rmdir cse
 cd cse
 ```
 
-...
-
-Feel free to let me know if you want more information or if there's anything specific you'd like to add!
