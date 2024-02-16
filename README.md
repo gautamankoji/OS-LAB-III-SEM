@@ -2,7 +2,10 @@
 
 This repository contains the problems discussed in Operating Systems Lab II-Year I-Sem at Vignan's Institute of Information Technology Visakhapatnam
 
----
+<!-- Line Break -->
+<a href="http://www.github.com/gautamankoji">
+  <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=333941&height=1.0' width="100%"/></p>
+</a>
 
 ## **LIST OF EXPERIMENTS**
 
@@ -18,3 +21,11 @@ This repository contains the problems discussed in Operating Systems Lab II-Year
 | 8   | **[Exercise – 8](Exercise_08_ls_l_command)** </br> (a). _[C program to emulate the UNIX ls –l command.](/Exercise_08_ls_l_command/UNIX_ls_l_command.c)_                                                                                                                                                                                                                                                        | **ls –l command**        |
 | 9   | **[Exercise – 9](Exercise_09_Command-Pipe)** </br> (a). _[C program that illustrates how to execute two commands concurrently with a command pipe.](/Exercise_09_Command-Pipe/commandPipe.c)_                                                                                                                                                                                                                  | **Command Pipe**         |
 | 10  | **[Exercise – 10](Exercise_10_Shared-Memory)** </br> (a). _[C program that illustrates two processes communicating using shared memory](/Exercise_10_Shared-Memory/sharedMemory.c)_                                                                                                                                                                                                                            | **Shared Memory**        |
+
+<div align="center">
+
+<a href="http://www.github.com/gautamankoji"><p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=333941&height=1.0' width="100%"/></p></a>
+
+*Authored by <a target="_blank" href="https://github.com/gautamankoji">Gautam Ankoji</a>*
+
+</div>
