@@ -98,9 +98,7 @@ int main() {
 
 Enter the no of processes : 5
 
-
 Enter the no of resources : 3
-
 
 Enter the Max Matrix for each process :
 For process 1 : 7 5 3
